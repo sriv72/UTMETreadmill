@@ -105,7 +105,7 @@ AddOutputFilter chunkFilter
 		<Item Name="findIndex.vi" Type="VI" URL="../findIndex.vi"/>
 		<Item Name="IdxToAccIdx.vi" Type="VI" URL="../IdxToAccIdx.vi"/>
 		<Item Name="indexToBool.vi" Type="VI" URL="../indexToBool.vi"/>
-		<Item Name="Inidces.vi" Type="VI" URL="../../UTME_Treadmill - Copy/Inidces.vi"/>
+		<Item Name="Inidces.vi" Type="VI" URL="../Inidces.vi"/>
 		<Item Name="IR_Sensor_DOE.vi" Type="VI" URL="../IR_Sensor_DOE.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
