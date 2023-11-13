@@ -102,6 +102,7 @@ AddOutputFilter chunkFilter
 		<Property Name="target.WebServer.ViAccess" Type="Str">+*</Property>
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
+		<Item Name="DIO Test.vi" Type="VI" URL="../DIO Test.vi"/>
 		<Item Name="findIndex.vi" Type="VI" URL="../findIndex.vi"/>
 		<Item Name="IdxToAccIdx.vi" Type="VI" URL="../IdxToAccIdx.vi"/>
 		<Item Name="indexToBool.vi" Type="VI" URL="../indexToBool.vi"/>
