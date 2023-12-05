@@ -102,12 +102,10 @@ AddOutputFilter chunkFilter
 		<Property Name="target.WebServer.ViAccess" Type="Str">+*</Property>
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
-		<Item Name="DIO Test.vi" Type="VI" URL="../DIO Test.vi"/>
 		<Item Name="findIndex.vi" Type="VI" URL="../findIndex.vi"/>
 		<Item Name="IdxToAccIdx.vi" Type="VI" URL="../IdxToAccIdx.vi"/>
 		<Item Name="indexToBool.vi" Type="VI" URL="../indexToBool.vi"/>
-		<Item Name="Inidces.vi" Type="VI" URL="../Inidces.vi"/>
-		<Item Name="IR_Sensor_DOE.vi" Type="VI" URL="../IR_Sensor_DOE.vi"/>
+		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="AI Channels Enum.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/myRIO v1.0/AI/typedefs/AI Channels Enum.ctl"/>
