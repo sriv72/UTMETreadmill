@@ -4,7 +4,7 @@ Control systems developed for functionality of an oscillatory treadmill platform
 ## Requirements
 - Windows PC
 - LabVIEW 2019 with MyRIO Software Bundle (download [here](https://www.ni.com/en/support/downloads/software-products/download.labview-myrio-software-bundle.html#305936))
-- Git (download [here](https://git-scm.com/downloads))
+- Optional: Git (download [here](https://git-scm.com/downloads)) if you want version control, otherwise downloading as a .zip should also work
 - Optional: Drive CM Configuration Software (download [here](https://www.automationdirect.com/support/software-downloads?itemcode=Drive%20CM%20Configuration#))
 - Optional: Python 3.6 or later for running script to modify acceleration values
 
