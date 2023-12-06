@@ -23,7 +23,7 @@ To activate both modes, the OFF/ON switch must be turned to ON. When the switch 
 The outputs for the software include both encoder output in terms of analog voltage output as well as error out in the case of communication errors with the hardware. The encoder output was originally meant to display positional data, but couldn't be properly implemented due to time constraints. 
 
 ### Using DriveCM
-If desired, the DriveCM software can be used to manually jog/send inputs to the motor and/or update motor/index configurations. To communicate with the Servo Drive using DriveCM, the computer must be plugged into the Servo Drive using the provided USB cable. The motor configuration and index preset files used for setting up the motor system are provided in the DriveCM folder of this repository. For more information on how to use DriveCM, [here](https://www.youtube.com/watch?v=_frHrodUB5I&list=PLPdypWXY_ROrmv1rvx_KLrxFEm1wZPbL2) is a helpful video playlist provided by AutomationDirect.
+If desired, the DriveCM software can be used to manually jog/send inputs to the motor and/or update motor/index configurations. To communicate with the Servo Drive using DriveCM, the computer must be plugged into the Servo Drive using the provided USB cable. The motor configuration and index preset files used for setting up the motor system are provided in this repository. For more information on how to use DriveCM, [here](https://www.youtube.com/watch?v=_frHrodUB5I&list=PLPdypWXY_ROrmv1rvx_KLrxFEm1wZPbL2) is a helpful video playlist provided by AutomationDirect.
 
 ### Changing Acceleration Settings
 By default, there are 5 acceleration options of 1, 2, 3, 4, and 5 m/s^2, however these values can easily be changed using the following procedure:
