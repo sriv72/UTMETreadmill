@@ -1,0 +1,832 @@
+[INDEX 0]
+Index type,0
+Distance,0
+Velocity,99999999
+Acceleration,10000000
+Deceleration,10000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 1]
+Index type,0
+Distance,0
+Velocity,99999999
+Acceleration,20000000
+Deceleration,20000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 2]
+Index type,0
+Distance,0
+Velocity,99999999
+Acceleration,30000000
+Deceleration,30000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 3]
+Index type,0
+Distance,0
+Velocity,99999999
+Acceleration,40000000
+Deceleration,40000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 4]
+Index type,0
+Distance,0
+Velocity,99999999
+Acceleration,50000000
+Deceleration,50000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 5]
+Index type,0
+Distance,200000
+Velocity,99999999
+Acceleration,10000000
+Deceleration,10000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 6]
+Index type,0
+Distance,-200000
+Velocity,99999999
+Acceleration,10000000
+Deceleration,10000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 7]
+Index type,0
+Distance,400000
+Velocity,99999999
+Acceleration,10000000
+Deceleration,10000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 8]
+Index type,0
+Distance,-400000
+Velocity,99999999
+Acceleration,10000000
+Deceleration,10000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 9]
+Index type,0
+Distance,600000
+Velocity,99999999
+Acceleration,10000000
+Deceleration,10000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 10]
+Index type,0
+Distance,-600000
+Velocity,99999999
+Acceleration,10000000
+Deceleration,10000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 11]
+Index type,0
+Distance,800000
+Velocity,99999999
+Acceleration,10000000
+Deceleration,10000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 12]
+Index type,0
+Distance,-800000
+Velocity,99999999
+Acceleration,10000000
+Deceleration,10000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 13]
+Index type,0
+Distance,1000000
+Velocity,99999999
+Acceleration,10000000
+Deceleration,10000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 14]
+Index type,0
+Distance,-1000000
+Velocity,99999999
+Acceleration,10000000
+Deceleration,10000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 15]
+Index type,0
+Distance,200000
+Velocity,99999999
+Acceleration,20000000
+Deceleration,20000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 16]
+Index type,0
+Distance,-200000
+Velocity,99999999
+Acceleration,20000000
+Deceleration,20000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 17]
+Index type,0
+Distance,400000
+Velocity,99999999
+Acceleration,20000000
+Deceleration,20000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 18]
+Index type,0
+Distance,-400000
+Velocity,99999999
+Acceleration,20000000
+Deceleration,20000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 19]
+Index type,0
+Distance,600000
+Velocity,99999999
+Acceleration,20000000
+Deceleration,20000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 20]
+Index type,0
+Distance,-600000
+Velocity,99999999
+Acceleration,20000000
+Deceleration,20000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 21]
+Index type,0
+Distance,800000
+Velocity,99999999
+Acceleration,20000000
+Deceleration,20000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 22]
+Index type,0
+Distance,-800000
+Velocity,99999999
+Acceleration,20000000
+Deceleration,20000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 23]
+Index type,0
+Distance,1000000
+Velocity,99999999
+Acceleration,20000000
+Deceleration,20000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 24]
+Index type,0
+Distance,-1000000
+Velocity,99999999
+Acceleration,20000000
+Deceleration,20000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 25]
+Index type,0
+Distance,200000
+Velocity,99999999
+Acceleration,30000000
+Deceleration,30000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 26]
+Index type,0
+Distance,-200000
+Velocity,99999999
+Acceleration,30000000
+Deceleration,30000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 27]
+Index type,0
+Distance,400000
+Velocity,99999999
+Acceleration,30000000
+Deceleration,30000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 28]
+Index type,0
+Distance,-400000
+Velocity,99999999
+Acceleration,30000000
+Deceleration,30000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 29]
+Index type,0
+Distance,600000
+Velocity,99999999
+Acceleration,30000000
+Deceleration,30000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 30]
+Index type,0
+Distance,-600000
+Velocity,99999999
+Acceleration,30000000
+Deceleration,30000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 31]
+Index type,0
+Distance,800000
+Velocity,99999999
+Acceleration,30000000
+Deceleration,30000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 32]
+Index type,0
+Distance,-800000
+Velocity,99999999
+Acceleration,30000000
+Deceleration,30000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 33]
+Index type,0
+Distance,1000000
+Velocity,99999999
+Acceleration,30000000
+Deceleration,30000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 34]
+Index type,0
+Distance,-1000000
+Velocity,99999999
+Acceleration,30000000
+Deceleration,30000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 35]
+Index type,0
+Distance,200000
+Velocity,99999999
+Acceleration,40000000
+Deceleration,40000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 36]
+Index type,0
+Distance,-200000
+Velocity,99999999
+Acceleration,40000000
+Deceleration,40000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 37]
+Index type,0
+Distance,400000
+Velocity,99999999
+Acceleration,40000000
+Deceleration,40000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 38]
+Index type,0
+Distance,-400000
+Velocity,99999999
+Acceleration,40000000
+Deceleration,40000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 39]
+Index type,0
+Distance,600000
+Velocity,99999999
+Acceleration,40000000
+Deceleration,40000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 40]
+Index type,0
+Distance,-600000
+Velocity,99999999
+Acceleration,40000000
+Deceleration,40000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 41]
+Index type,0
+Distance,800000
+Velocity,99999999
+Acceleration,40000000
+Deceleration,40000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 42]
+Index type,0
+Distance,-800000
+Velocity,99999999
+Acceleration,40000000
+Deceleration,40000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 43]
+Index type,0
+Distance,1000000
+Velocity,99999999
+Acceleration,40000000
+Deceleration,40000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 44]
+Index type,0
+Distance,-1000000
+Velocity,99999999
+Acceleration,40000000
+Deceleration,40000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 45]
+Index type,0
+Distance,200000
+Velocity,99999999
+Acceleration,50000000
+Deceleration,50000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 46]
+Index type,0
+Distance,-200000
+Velocity,99999999
+Acceleration,50000000
+Deceleration,50000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 47]
+Index type,0
+Distance,400000
+Velocity,99999999
+Acceleration,50000000
+Deceleration,50000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 48]
+Index type,0
+Distance,-400000
+Velocity,99999999
+Acceleration,50000000
+Deceleration,50000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 49]
+Index type,0
+Distance,600000
+Velocity,99999999
+Acceleration,50000000
+Deceleration,50000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 50]
+Index type,0
+Distance,-600000
+Velocity,99999999
+Acceleration,50000000
+Deceleration,50000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 51]
+Index type,0
+Distance,800000
+Velocity,99999999
+Acceleration,50000000
+Deceleration,50000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 52]
+Index type,0
+Distance,-800000
+Velocity,99999999
+Acceleration,50000000
+Deceleration,50000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 53]
+Index type,0
+Distance,1000000
+Velocity,99999999
+Acceleration,50000000
+Deceleration,50000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 54]
+Index type,0
+Distance,-1000000
+Velocity,99999999
+Acceleration,50000000
+Deceleration,50000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,0
+Next Index,0
+Action,0
+
+[INDEX 55]
+Index type,1
+Distance,0
+Velocity,20000000
+Acceleration,20000000
+Deceleration,20000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,1000
+Next Index,0
+Action,2
+
+[INDEX 56]
+Index type,1
+Distance,7000000
+Velocity,100000000
+Acceleration,70000000
+Deceleration,70000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,1000
+Next Index,0
+Action,2
+
+[INDEX 57]
+Index type,1
+Distance,0
+Velocity,100000000
+Acceleration,70000000
+Deceleration,70000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,1000
+Next Index,0
+Action,2
+
+[INDEX 58]
+Index type,1
+Distance,0
+Velocity,20000000
+Acceleration,20000000
+Deceleration,20000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,1000
+Next Index,0
+Action,2
+
+[INDEX 59]
+Index type,1
+Distance,0
+Velocity,20000000
+Acceleration,20000000
+Deceleration,20000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,1000
+Next Index,0
+Action,2
+
+[INDEX 60]
+Index type,1
+Distance,0
+Velocity,20000000
+Acceleration,20000000
+Deceleration,20000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,1000
+Next Index,0
+Action,2
+
+[INDEX 61]
+Index type,1
+Distance,0
+Velocity,20000000
+Acceleration,20000000
+Deceleration,20000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,1000
+Next Index,0
+Action,2
+
+[INDEX 62]
+Index type,1
+Distance,0
+Velocity,20000000
+Acceleration,20000000
+Deceleration,20000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,1000
+Next Index,0
+Action,2
+
+[INDEX 63]
+Index type,1
+Distance,0
+Velocity,20000000
+Acceleration,20000000
+Deceleration,20000000
+Reg. Distance,100000
+Reg. Velocity,1000000
+Repeat Count,1
+Dwell Time,1000
+Next Index,0
+Action,2
+
